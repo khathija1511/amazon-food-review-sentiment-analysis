@@ -13,9 +13,9 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Load saved model and vectorizer
-model = pickle.load(open("../models/logistic_regression_model.pkl", "rb"))
+model = pickle.load(open("models/logistic_regression_model.pkl", "rb"))
 
-tfidf = pickle.load(open("../models/tfidf_vectorizer.pkl", "rb"))
+tfidf = pickle.load(open("models/tfidf_vectorizer.pkl", "rb"))
 
 # NLP setup
 lemmatizer = WordNetLemmatizer()
