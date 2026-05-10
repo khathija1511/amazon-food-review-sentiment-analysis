@@ -1,6 +1,4 @@
-## Live Demo
 
-[Click Here to Use the App](https://amazon-food-review-sentiment-analysis-frisacozmbxjyjohhfxadm.streamlit.app/)
 
 \# Amazon Review Sentiment Analysis
 
