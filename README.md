@@ -99,7 +99,6 @@ python -m streamlit run app.py
 
 Khathija
 
-=======
 # amazon-food-review-sentiment-analysis
 Multi-class sentiment analysis on Amazon food reviews using NLP and machine learning.
->>>>>>> eb4d0619e700a83585e7f88772ecb78dbe638f4b
+
