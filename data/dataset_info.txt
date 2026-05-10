@@ -1,0 +1,7 @@
+Dataset: Amazon Fine Food Reviews
+
+Source:
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+Note:
+Dataset is hosted on Kaggle due to large file size.
