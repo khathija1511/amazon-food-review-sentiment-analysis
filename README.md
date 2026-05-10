@@ -1,4 +1,4 @@
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_APP_URL](https://amazon-food-review-sentiment-analysis-frisacozmbxyjyohhfxadm.streamlit.app/))
 
 \# Amazon Review Sentiment Analysis
 
