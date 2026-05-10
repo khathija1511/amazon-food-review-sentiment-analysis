@@ -1,3 +1,6 @@
+## Live Demo
+
+[Click Here to Use the App](https://amazon-food-review-sentiment-analysis.streamlit.app)
 
 \# Amazon Review Sentiment Analysis
 
